@@ -1,0 +1,17 @@
+{
+    "name": "_PID",
+    "keywords": "PID",
+    "description": "PID controller",
+    "url": "",
+    "include": "_PID",
+    "authors": [
+        {
+            "name": "Reko Meriö"
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/rekomerio/simple-pid.git"
+    },
+    "frameworks": "arduino"
+}
